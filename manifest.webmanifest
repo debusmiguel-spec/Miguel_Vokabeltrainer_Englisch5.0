@@ -1,0 +1,13 @@
+{
+  "name": "Englisch Vokabeltrainer V5",
+  "short_name": "Vokabeltrainer",
+  "description": "Englisch lernen mit Lernabschnitten, Statistik und Erfolgsquoten-Balkendiagramm",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef3f8",
+  "theme_color": "#172033",
+  "lang": "de",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
